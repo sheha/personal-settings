@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[amerit-nuevo] - .../academicmerit/client/rawr/apps/ftcontent/handlers/AnchorTool.jsx'" />
     <option name="defaultScopeName" value="File '[amerit-nuevo] - .../academicmerit/client/rawr/apps/ftcontent/handlers/AnchorTool.jsx'" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="File '[amerit-nuevo] - .../academicmerit/client/rawr/apps/ftcontent/handlers/AnchorTool.jsx'" />
     <option name="FILE_MASK" value="*.py" />
     <recentFileMasks>
