@@ -4,4 +4,11 @@
       <PhpCSConfiguration tool_path="$USER_HOME$/CHIVE/vip-quickstart/www/wp-content/themes/vip/chivecommon-2014/phpcs.ruleset.xml" />
     </phpcs_settings>
   </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter home="vagrant:///home/sheha/CHIVE/vip-quickstart/usr/bin/php" id="b1ed8b63-eca3-4629-ab17-3da1cfd732f4" name="Remote PHP" debugger_id="php.debugger.XDebug">
+        <remote_data VAGRANT_FOLDER="$USER_HOME$/CHIVE/vip-quickstart" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="" INITIALIZED="false" VALID="true" />
+      </interpreter>
+    </interpreters>
+  </component>
 </application>
