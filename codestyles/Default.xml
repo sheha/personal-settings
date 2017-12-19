@@ -57,5 +57,8 @@
   </codeStyleSettings>
   <codeStyleSettings language="Python">
     <option name="KEEP_LINE_BREAKS" value="false" />
+    <option name="SPACE_BEFORE_COMMA" value="true" />
+    <option name="SPACE_WITHIN_METHOD_CALL_PARENTHESES" value="true" />
+    <option name="SPACE_WITHIN_BRACKETS" value="true" />
   </codeStyleSettings>
 </code_scheme>
