@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="done-list" type="PLAIN_TEXT" />
       <mapping pattern="clone_chive_here" type="PLAIN_TEXT" />
+      <mapping pattern="VERSION" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
