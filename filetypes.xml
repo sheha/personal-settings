@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="udemy_course_reviews.json" type="PLAIN_TEXT" />
       <mapping pattern="done-list" type="PLAIN_TEXT" />
       <mapping pattern="clone_chive_here" type="PLAIN_TEXT" />
       <mapping pattern="VERSION" type="PLAIN_TEXT" />
