@@ -4,4 +4,9 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="predbg" value="from ipdb import launch_ipdb_on_exception&#10;with launch_ipdb_on_exception:&#10;    &#10;" description="import exception_launcher" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
